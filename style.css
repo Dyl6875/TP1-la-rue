@@ -13,3 +13,7 @@
     height: 100vh;
     background-color: purple;
 }
+
+.input {
+    transition: 0.4s;
+}
